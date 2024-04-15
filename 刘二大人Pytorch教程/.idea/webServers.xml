@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8adb98c0-f0b3-4371-8314-751558e5ac1f" name="learning">
+        <fileTransfer rootFolder="/home/ljx" accessType="SFTP" host="192.168.99.35" port="22" sshConfigId="919a12bd-bf1c-42bd-aa4d-a0bd2b65eb55" sshConfig="zkmn">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
